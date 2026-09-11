@@ -1,8 +1,9 @@
 # Algorithmic Comparisons for the Low-Weight Polynomial Multiple Problem (LWPM)
 
-This repository contains the code and experimental artifacts supporting a paper.
+This repository contains the code and experimental artifacts supporting the CANS2026 paper,
 
-> **Algorithmic Comparisons for the Low-Weight Polynomial Multiple Problem**
+> **Algorithmic Comparisons for the Low-Weight Polynomial Multiple Problem**, also found in this repository
+
 
 The goal of this project is to experimentally compare fundamentally different
 algorithmic paradigms for solving the **Low-Weight Polynomial Multiple (LWPM)**
